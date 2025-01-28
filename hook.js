@@ -1,4 +1,7 @@
 (() => {
+    console.log("AIE.JS is under the MIT License, see here: https://github.com/Nilonic/AIE-JS/blob/main/LICENSE");
+    console.log("You are running the non-minified version of AIE.JS, this message dissappears when running the minified version");
+    console.log("Any issues with AIE.JS, report them here: https://github.com/Nilonic/AIE-JS/issues");
     let shouldBlockkeydown = false;
     let shouldBlockRightClick = false;
     document.addEventListener("\x44\x4F\x4D\x43\x6F\x6E\x74\x65\x6E\x74\x4C\x6F\x61\x64\x65\x64", () => {
