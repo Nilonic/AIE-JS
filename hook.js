@@ -33,7 +33,7 @@
         (() => {
             document.addEventListener("keydown", (ev) => { // keydown
                 if (shouldBlockkeydown) {
-                    if (ev.ctrlKey && ev.shiftKey && ev.key === "\x49") {
+                    if (ev.ctrlKey && ev.shiftKey && ev.key === "I") {
                         ev.preventDefault();
                     }
                     if (ev.code === "F12") {
