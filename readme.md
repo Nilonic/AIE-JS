@@ -22,7 +22,9 @@ This utility is lightweight and customizable, offering an additional layer of de
 
 ## Installation
 ### Step 1: Include the Script
-You can include the script in your project by adding the following `<script>` tag to your HTML file:
+Download either the full, or the minified version, of the script, and include it in your `<head>` tag
+
+<!--You can include the script in your project by adding the following `<script>` tag to your HTML file:
 
 #### Full Version:
 ```html
@@ -33,6 +35,8 @@ You can include the script in your project by adding the following `<script>` ta
 ```html
 <script src="https://raw.githubusercontent.com/Nilonic/AIE-JS/refs/heads/main/hook.min.js"></script>
 ```
+
+-->
 
 ### Step 2: Configure the Behavior
 Add a DOM element with the ID `AISE-CONFIG` to your HTML and configure its attributes:
