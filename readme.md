@@ -26,12 +26,12 @@ You can include the script in your project by adding the following `<script>` ta
 
 #### Full Version:
 ```html
-<script src="https://github.com/nilonic/AIE-JS/blob/main/hook.js"></script>
+<script src="https://raw.githubusercontent.com/Nilonic/AIE-JS/refs/heads/main/hook.js"></script>
 ```
 
 #### Minified Version:
 ```html
-<script src="https://github.com/nilonic/AIE-JS/blob/main/hook.min.js"></script>
+<script src="https://raw.githubusercontent.com/Nilonic/AIE-JS/refs/heads/main/hook.min.js"></script>
 ```
 
 ### Step 2: Configure the Behavior
